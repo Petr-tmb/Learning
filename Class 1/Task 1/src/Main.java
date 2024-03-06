@@ -8,7 +8,6 @@ public class Main {
         a = b;
         b = c;
         System.out.println("Значение а: " + a + ". Значение b: " + b);
-
         /* Решение 1 с новой переменной ^^^ */
 
         a = 5;
